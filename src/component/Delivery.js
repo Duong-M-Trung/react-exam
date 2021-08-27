@@ -173,7 +173,7 @@ const Delivery = () => {
             width={window.innerWidth}
             // closable={onclose}
             onClose={onclose}
-            placement='left'
+            placement='right'
             title={'New order'}
             footer={
               <Row>
